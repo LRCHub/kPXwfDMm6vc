@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "すーぱーUtaGe!砲",
+  "base_artist": "UtaGe!",
+  "createdAt": "2026-03-02T14:36:21.015040Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すーぱーUtaGe!砲",
+      "artist": "UtaGe!",
+      "has_synced": false,
+      "path": "select/pl_01_すーぱーUtaGe!砲_UtaGe!.txt"
+    }
+  ]
+}
